@@ -1,2 +1,3 @@
-# ScrapBook-Js
-Scrapbook making use of React / Redux / Typescript
+# Redux Scrapbook Example Example
+
+npm run build
